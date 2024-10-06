@@ -7,6 +7,7 @@ I am Nayef Alam a computer science student specializing in AI and Data science, 
   where I am developing a model (or trying atleast) for football analysis (million dollar industry let me tell you).
 
 I can be reached on Linked in at linkedin.com/in/nayefalam and email: nayefalam77@gmail.com
+I also made a few games using unity and scripted them manually you can play them here if you want some entertainment :) https://nayef.itch.io/
 
 
 <!---
